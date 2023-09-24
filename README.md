@@ -10,6 +10,9 @@ While functional the source code needs refinment and can serve as a good base fo
 
 Enjoy.
 
+![Screenshot_1](https://github.com/hmachine83/ScreenRec/assets/12422024/2472cbe1-9aef-419a-bbf2-2a7ec5046965)
+
+
 <img width="1440" alt="Screenshot 2023-09-24 at 11 25 41" src="https://github.com/hmachine83/ScreenRec/assets/12422024/c9f5a715-958c-4e76-96c1-4098df145c2d">
 
 
