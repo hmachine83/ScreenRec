@@ -4,7 +4,7 @@ Screen recording for Mac
 This was a freelancing job done for a client by the name of Shai Wolkomir : https://il.linkedin.com/in/wolkomir
 The client used sleezy way with milestones on Upwork, so that he can get a product for fraction of the price we agreed upon, and later refused to pay.
 
-So here's one of the first eaxmples of the Screencapturekit used for recording to file.
+So here's one of the first examples of the Screencapturekit used for recording to a file.
 
 While functional the source code needs refinment and can serve as a good base for a whole product.
 
